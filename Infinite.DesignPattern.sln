@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite.DesingnPattern.Singleton", "Infinite.DesingnPattern.Singleton\Infinite.DesingnPattern.Singleton.csproj", "{9353750D-C145-4B51-8B16-BCDB0729677F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite.DesignPattern.Factory", "Infinite.DesignPattern.Factory\Infinite.DesignPattern.Factory.csproj", "{19033892-B849-4108-8F84-5FC2BEF19674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9353750D-C145-4B51-8B16-BCDB0729677F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9353750D-C145-4B51-8B16-BCDB0729677F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9353750D-C145-4B51-8B16-BCDB0729677F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9353750D-C145-4B51-8B16-BCDB0729677F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19033892-B849-4108-8F84-5FC2BEF19674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19033892-B849-4108-8F84-5FC2BEF19674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19033892-B849-4108-8F84-5FC2BEF19674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19033892-B849-4108-8F84-5FC2BEF19674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED925F61-1975-405D-93DF-39ADDC8EA35C}
+	EndGlobalSection
+EndGlobal
